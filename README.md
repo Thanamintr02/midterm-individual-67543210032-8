@@ -47,7 +47,7 @@ server.js              # Entry point ของระบบ
 
 ## 🚀 How to Run
 
-\`\`\`bash
+
 # 1. Clone repository
 git clone (https://github.com/Thanamintr02/midterm-individual-67543210032-8)
 
@@ -59,7 +59,7 @@ npm start
 
 # 4. Test API
 # Open browser: http://localhost:3000
-\`\`\`
+
 
 ## 📝 API Endpoints
 GET /api/books - ดึงรายชื่อหนังสือและสถิติทั้งหมด
