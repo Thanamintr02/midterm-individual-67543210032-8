@@ -1,0 +1,25 @@
+{
+  "name": "midterm-individual-67543210032-8",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanamintr02/midterm-individual-67543210032-8.git"
+  },
+  "keywords": [],
+  "author": "Thanamintr02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thanamintr02/midterm-individual-67543210032-8/issues"
+  },
+  "homepage": "https://github.com/Thanamintr02/midterm-individual-67543210032-8#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}

@@ -1,4 +1,4 @@
-### 2. ไฟล์ `ARCHITECTURE.md`
+### 2. ไฟล์ ARCHITECTURE.md
 
 ```markdown
 # Software Architecture Document (C4 Model)
